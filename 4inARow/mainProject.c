@@ -1,9 +1,4 @@
-/*
-		Tomer Kizel 315765891
-		Project 4 in a row.
-		08/12/19.
-		Group C.
-*/
+
 
 
 
